@@ -1,4 +1,4 @@
-const API_KEY = 'OQqfP8y9czSZu9b2G0gsnG233MVCUlgD'; // Replace with your AccuWeather API Key
+const API_KEY = api key'; // Replace with your AccuWeather API Key
 
 document.getElementById('searchButton').addEventListener('click', () => {
     const location = document.getElementById('locationInput').value.trim();
